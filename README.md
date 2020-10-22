@@ -1,5 +1,6 @@
 # logstash
- Basic Logstash configuration for multiple file type  
+# Basic Logstash configuration for multiple file type  
+
 1- iis output exchange .
 
 2- timeline  output from log2time csv format .
