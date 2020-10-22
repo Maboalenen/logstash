@@ -1,0 +1,2 @@
+# logstash
+logstash_filters
